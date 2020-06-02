@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>温州广厦</title>
+<link href="../images/yc.png" rel="shortcut icon" type="image/x-icon" />
+<!-- TemplateBeginEditable name="style" -->
+<link rel="stylesheet" type="text/css" href="../css/basic.css">
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!-- 顶部 -->
+<header>
+	<embed src="../images/banner.swf"></embed>
+</header>
+
+<!-- 导航菜单区域 -->
+<div class="nav">
+	<ul>
+		<li><a href="index.html" target="_blank">首页</a></li>
+		<li><a href="about.html" target="_blank">关于我们</a></li>
+		<li><a href="news.html" target="_blank">新闻动态</a></li>
+		<li><a href="lou.html" target="_blank">楼盘展示</a></li>
+		<li><a href="job.html" target="_blank">人才招聘</a></li>
+		<li><a href="contact.html" target="_blank">联系我们</a></li>
+		<li><a href="guest.html" target="_blank">留言反馈</a></li>
+	</ul>
+</div>
+
+<!-- TemplateBeginEditable name="article" -->
+<article>
+
+</article>
+<!-- TemplateEndEditable -->
+
+<!-- 底部版权 -->
+<footer>
+	<img src="../images/footer2.gif" alt="声明" />
+    <p>COPYRIGHT &copy; WZGS.NET, 2006. All RIGHTS RESERVED</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+article {
+	width: 100%;
+	height: 490px;
+	background: #FFF;
+}
+
+article>div, .right_top>div{
+	float: left;
+}
+
+.left {
+	width: 251px;
+	height: 100%;
+	background:url(../images/weline.gif) no-repeat right center;
+}
+
+.pic1 {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.pic2 {
+	margin-left: 15px;
+}
+
+.left > ul > li {
+	margin-left: 20px;
+	line-height: 24px;
+}
+
+.readmore {
+	display: block;
+	background:url(../images/more.gif) no-repeat left center;
+	width: 100%;
+	height: 24px;
+	line-height: 24px;
+}
+
+.left .line {
+	border-top: 1px solid #ccc;
+	width: 80%;
+	margin: 5px 0px 5px 20px;
+}
+
+.right {
+	width: 616px;
+	height: 100%;
+}
+
+.right_top {
+	width: 100%;
+	height: 300px;
+}
+
+.top_left {
+	width: 313px;
+	height: 100%;
+}
+
+.top_left > ul {
+	background:url(../images/weline.gif) no-repeat right center;
+}
+
+.top_left > ul > li {
+	margin-left: 20px;
+	line-height: 22px;
+	padding-left: 16px;
+}
+
+.top_left .news_date {
+	color: #F93;
+	background:url(../images/ico.gif) no-repeat left center;
+}
+
+.top_right {
+	width: 303px;
+	height: 100%;
+}
+
+.top_right > p {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-indent: 2em;
+	line-height: 22px;
+	text-align: justify;
+}
+
+.top_right > a{
+	margin-left: 20px;
+}
+
+.right_bottom {
+	width: 100%;
+	height: 190px;
+}
+
+.inner {
+	border-top: 1px solid #ccc;
+	width: 90%;
+	height: 170px;
+	margin-top: 10px;	
+}
+
+.inner>img {
+	float: left;
+	margin-top: 10px;
+	
+}
+
+.inner>dl {
+	float: left;
+	width: 280px;
+	margin-left: 20px;
+	margin-top: 15px;
+	line-height: 20px;
+}

@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	padding: 0px;
+	margin: 0px auto;
+	width: 867px;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	background: #2c383e url(../images/bgindex.jpg) repeat-x;
+	color: #666;
+}
+
+* {
+	padding: 0px;
+	margin: 0px auto;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: #666;
+}
+
+a:hover {
+	color: #F60 !important;
+}
+
+header {
+	width: 100%;
+	height: 323px;
+	background:#FFF;
+}
+
+header>embed {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.nav {
+	width: 100%;
+	height: 51px;
+	background:url(../images/linkbg.jpg) repeat-x;
+}
+
+.nav li{
+	height: 51px;
+	line-height: 51px;
+	list-style-type: none;
+	float: left;
+	text-align:center;
+	width: 124px;
+	background:url(../images/linkr.gif) no-repeat right center;
+}
+
+.nav li:last-child {
+	width: 123px;
+	background: none;
+}
+
+.nav li>a{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	color: #FFF;
+}
+
+footer {
+	width: 100%;
+	height: 110px;
+	background:url(../images/bg.gif) repeat-y;
+}
+
+footer>img {
+	padding-top: 10px;
+}
+
+footer>p {
+	color: #CCC;
+	text-align: right;
+	margin-right: 20px;
+	margin-top: 10px;
+}
